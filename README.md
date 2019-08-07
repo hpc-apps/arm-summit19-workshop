@@ -22,10 +22,10 @@ __Session 1__
 * Filippo Spiga (Arm research)
 * Yingchih Yang (European Processor Initiative)
 * Romain Dolbeau (ATOS)
-* Hatem Ltaief (Kaust)
+* Hatem Ltaief (Kaust) : Porting the HICMA linear algebra library on Arm platforms. 
 
 __Session 2__	
-* Marc Perache / Hugo Taboada (CEA)
-* Dirk Pleiter (Jülich Supercomputing Center)
-* Christelle Piechurski / Gabriel Hautreux (Genci)
-* Filippo Mantovani (BSC)
+* Marc Perache (CEA)
+* Dirk Pleiter (Jülich Supercomputing Center) : Arm ready for large-scale HPC procurements?
+* Christelle Piechurski (Genci)
+* Filippo Mantovani (BSC) : The Arm architecture in HPC: from mobile phones to the Top500
