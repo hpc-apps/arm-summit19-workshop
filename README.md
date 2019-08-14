@@ -25,7 +25,7 @@ __Session 1__
 * Hatem Ltaief (Kaust) : Porting the HICMA linear algebra library on Arm platforms. 
 
 __Session 2__	
-* Marc Perache (CEA)
+* Marc Perache (CEA) : Porting Experience On ARM Architecture
 * Dirk Pleiter (Jülich Supercomputing Center) : Arm ready for large-scale HPC procurements?
 * Christelle Piechurski (Genci)
 * Filippo Mantovani (BSC) : The Arm architecture in HPC: from mobile phones to the Top500
