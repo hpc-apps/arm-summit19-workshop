@@ -18,7 +18,7 @@ The Workshop is part of the 4th annual [Arm Research Summit](https://www.arm.com
   
 # Program (TBC)
 
-__ 12h30 : Introduction (CEA, Atos, Arm)__ 
+__12h30 : Introduction (CEA, Atos, Arm)__ 
 
 __Session 1__
 * 12h40  : Filippo Spiga (Arm research) : Overview of research activities in HPC
