@@ -22,7 +22,7 @@ __12h30 : Introduction (CEA, Atos, Arm)__
 
 __Session 1__
 * 12h40  : Filippo Spiga (Arm research) : Overview of research activities in HPC
-* 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE.
+* 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE. (remote presentation)
 * 13h30  : Hatem Ltaief (Kaust)  : Porting the HICMA linear algebra library on Arm platforms. 
 * 13h50  : Yingchih Yang (EPI)   : Update on the European Processor Initiative.
 
@@ -35,4 +35,3 @@ __Session 2__
 * 15h20  : Filippo Mantovani (BSC) : The Arm architecture in HPC: from mobile phones to the Top500
 
 __Wrap-Up (15h40 - 16h00)__
-
