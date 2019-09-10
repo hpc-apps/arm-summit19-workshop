@@ -31,7 +31,7 @@ __BREAK (14h - 14h20)__
 __Session 2__	
 * 14h20  : Marc Perache (CEA) : Porting Experience on ARM Architecture
 * 14h40  : Dirk Pleiter (Jülich Supercomputing Center) : Arm ready for large-scale HPC procurements?
-* 15h00  : Christelle Piechurski (Genci) : Feedback from Genci on Arm platforms.
+* 15h00  : Christelle Piechurski (Genci) : Pre-exascale Architectures: ARM Performance and Usability Assessment for French Scientific Community
 * 15h20  : Filippo Mantovani (BSC) : The Arm architecture in HPC: from mobile phones to the Top500
 
 __Wrap-Up (15h40 - 16h00)__
