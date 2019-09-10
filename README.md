@@ -18,10 +18,10 @@ The Workshop is part of the 4th annual [Arm Research Summit](https://www.arm.com
   
 # Program (TBC)
 
-__Introduction__ 
+__Introduction (CEA, Atos, Arm)__ 
 
 __Session 1__
-* 12h40  : Filippo Spiga (Arm research)
+* 12h40  : Filippo Spiga (Arm research) : Overview of research activities in HPC
 * 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE.
 * 13h30  : Hatem Ltaief (Kaust)  : Porting the HICMA linear algebra library on Arm platforms. 
 * 13h50  : Yingchih Yang (EPI)   : Update on the European Processor Initiative.
