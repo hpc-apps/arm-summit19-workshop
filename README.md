@@ -18,14 +18,21 @@ The Workshop is part of the 4th annual [Arm Research Summit](https://www.arm.com
   
 # Program (TBC)
 
+__Introduction__ 
+
 __Session 1__
-* Filippo Spiga (Arm research)
-* Yingchih Yang (European Processor Initiative)
-* Romain Dolbeau (ATOS)
-* Hatem Ltaief (Kaust) : Porting the HICMA linear algebra library on Arm platforms. 
+* 12h40  : Filippo Spiga (Arm research)
+* 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE.
+* 13h40  : Hatem Ltaief (Kaust)  : Porting the HICMA linear algebra library on Arm platforms. 
+* 13h50  : Yingchih Yang (EPI)   : Update on the European Processor Initiative.
+
+__BREAK (14h - 14h20)__
 
 __Session 2__	
-* Marc Perache (CEA) : Porting Experience On ARM Architecture
-* Dirk Pleiter (Jülich Supercomputing Center) : Arm ready for large-scale HPC procurements?
-* Christelle Piechurski (Genci)
-* Filippo Mantovani (BSC) : The Arm architecture in HPC: from mobile phones to the Top500
+* 14h20  : Marc Perache (CEA) : Porting Experience on ARM Architecture
+* 14h40  : Dirk Pleiter (Jülich Supercomputing Center) : Arm ready for large-scale HPC procurements?
+* 15h00  : Christelle Piechurski (Genci) : Feedback from Genci on Arm platforms.
+* 15h20  : Filippo Mantovani (BSC) : The Arm architecture in HPC: from mobile phones to the Top500
+
+__Wrap-Up (15h40 - 16h00)__
+
