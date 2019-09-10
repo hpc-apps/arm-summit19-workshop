@@ -14,14 +14,14 @@ The Workshop is part of the 4th annual [Arm Research Summit](https://www.arm.com
 * Marc Perache, CEA 
 * Romain Dolbeau, ATOS	
 * Fabrice Dupros, Arm	
-
   
-# Program (TBC)
-
+# Program
 __12h30 : Introduction (CEA, Atos, Arm)__ 
 
-__Session 1__
+__KEYNOTE__
 * 12h40  : Filippo Spiga (Arm research) : Overview of research activities in HPC
+
+__Session 1__
 * 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE. (remote presentation)
 * 13h30  : Hatem Ltaief (Kaust)  : Porting the HICMA linear algebra library on Arm platforms. 
 * 13h50  : Yingchih Yang (EPI)   : Update on the European Processor Initiative.
