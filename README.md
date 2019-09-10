@@ -23,7 +23,7 @@ __Introduction__
 __Session 1__
 * 12h40  : Filippo Spiga (Arm research)
 * 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE.
-* 13h40  : Hatem Ltaief (Kaust)  : Porting the HICMA linear algebra library on Arm platforms. 
+* 13h30  : Hatem Ltaief (Kaust)  : Porting the HICMA linear algebra library on Arm platforms. 
 * 13h50  : Yingchih Yang (EPI)   : Update on the European Processor Initiative.
 
 __BREAK (14h - 14h20)__
