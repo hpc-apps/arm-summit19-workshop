@@ -21,14 +21,14 @@ __12h30 : Introduction (CEA, Atos, Arm)__
 __KEYNOTE__
 * 12h40  : Filippo Spiga (Arm research) : Overview of research activities in HPC
 
-__Session 1 Chair : Srinath Vadlamani (Arm)__
+__Chair of Session 1 : Srinath Vadlamani (Arm)__
 * 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE. (remote presentation)
 * 13h30  : Hatem Ltaief (Kaust)  : Porting the HICMA linear algebra library on Arm platforms. 
 * 13h50  : Yingchih Yang (EPI)   : Update on the European Processor Initiative.
 
 __BREAK (14h - 14h20)__
 
-__Session 2 Chair : Roxana Rusitoru (Arm)__	
+__Chair of Session 2 : Roxana Rusitoru (Arm)__	
 * 14h20  : Marc Perache (CEA) : Porting Experience on ARM Architecture
 * 14h40  : Dirk Pleiter (Jülich Supercomputing Center) : Arm ready for large-scale HPC procurements?
 * 15h00  : Christelle Piechurski (Genci) : Pre-exascale Architectures: ARM Performance and Usability Assessment for French Scientific Community
