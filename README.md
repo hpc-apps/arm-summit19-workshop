@@ -19,7 +19,7 @@ The Workshop is part of the 4th annual [Arm Research Summit](https://www.arm.com
 __12h30 : Introduction (CEA, Atos, Arm)__ 
 
 __KEYNOTE__
-* 12h40  : Filippo Spiga (Arm research) : Overview of research activities in HPC
+* 12h40  : Filippo Spiga (Arm research) : Enabling innovation across all compute continuum
 
 __Chair of Session 1 : Srinath Vadlamani (Arm)__
 * 13h10  : Romain Dolbeau (ATOS) : FFTW on Arm architectures with SVE. (remote presentation)
